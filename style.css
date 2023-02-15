@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+
+   body{
+       height: 100vh;
+       display: grid;
+       grid-template-rows: 100px 60% 50px;
+       padding: 60px 40px 50px 30px;
+       background-color: #f5cf06
+   }
+   header{
+       background-color: tomato;
+    
+   }
+   main{
+       background-color: yellow;
+   }
+
+footer{
+    background-color:chocolate;
+}
